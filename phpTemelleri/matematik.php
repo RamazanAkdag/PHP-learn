@@ -63,11 +63,7 @@ echo "<hr>";
 
 //devamını oku uygulaması
 
-$yazi = "lorem ipsum dolor sit amet abuk subuk konusup benim canımı sikme sikerim belanı amcuk oç seni götalak herif neyin peşindesin lan sen yarragımın kafası
-annenin kafasında özgurluk heykelinin yanmayan meşalesini kırarım ibnenin çocugu lorem ipsum dolor sit amet abuk subuk konusup benim canımı sikme sikerim belanı amcuk oç seni götalak herif neyin peşindesin lan sen yarragımın kafası
-annenin kafasında özgurluk heykelinin yanmayan meşalesini kırarım ibnenin çocugu lorem ipsum dolor sit amet abuk subuk konusup benim canımı sikme sikerim belanı amcuk oç seni götalak herif neyin peşindesin lan sen yarragımın kafası
-annenin kafasında özgurluk heykelinin yanmayan meşalesini kırarım ibnenin çocugu lorem ipsum dolor sit amet abuk subuk konusup benim canımı sikme sikerim belanı amcuk oç seni götalak herif neyin peşindesin lan sen yarragımın kafası
-annenin kafasında özgurluk heykelinin yanmayan meşalesini kırarım ibnenin çocugu";
+$yazi = "lorem ipsum dolor sit amet";
 echo "<h1>haber baslıgı</h1>";
 
 echo "<p>".substr($yazi,0,250)."...</p>";//phpnin keni fonklarını string içinde kullanamazssın birleştirme operatoryule ayrı yazman gerek
