@@ -27,7 +27,7 @@
 	<?php 
 	//birlestirme operatoru .
 
-		echo "oyku atak"."akdag";
+		echo "Ramo"."akdag";
 
 	?>
 	<hr>
